@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480902716592",
+    "firebase_url": "https://flutterdynamiclinkalc.firebaseio.com",
+    "project_id": "flutterdynamiclinkalc",
+    "storage_bucket": "flutterdynamiclinkalc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480902716592:android:a2bcb87f3484db88902f75",
+        "android_client_info": {
+          "package_name": "com.example.flutterdynamiclink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480902716592-i8ffg8sf0s4b7smprj6j04qsgpc3l83n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEqV_LL92Pil5PDyedHYXrm82zwiGJCR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480902716592-i8ffg8sf0s4b7smprj6j04qsgpc3l83n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
