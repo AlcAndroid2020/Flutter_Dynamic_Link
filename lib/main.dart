@@ -7,7 +7,7 @@ void main() {
     title: 'Dynamic Links Example',
     routes: <String, WidgetBuilder>{
       '/': (BuildContext context) => _MainScreen(),
-      '/Games': (BuildContext context) => GameScreen("Game"),
+      '/deals': (BuildContext context) => GameScreen("deals"),
       '/Product': (BuildContext context) => GameScreen("Product"),
     },
   ));
